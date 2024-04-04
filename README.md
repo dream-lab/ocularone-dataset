@@ -6,7 +6,7 @@ This full dataset consists of 30,712 annotated images of a person wearing a gree
 The images are taken by a [DJI Ryze Tello](https://www.ryzerobotics.com/tello) drone with an onboard camera. The camera has a Field of View (FoV) of 82.6 degrees and captures videos at a resolution of 720p at 30 frames per second (FPS).
 
 ### Setup
-A person holding the drone at different heights and distances from the person wearing the hazard vest, captures the videos. The frames are extracted from the videos at FPS of 10 (need to verify). 
+A person holding the drone at different heights and distances from the person wearing the hazard vest, captures the videos. The frames are extracted from the videos at 10 FPS. 
 
 ### Dataset
 We have a total of 43 videos of duration between 1 minute to 2 minutes at different locations in the campus. The images have been manually annotated using [Roboflow](https://roboflow.com/). Overall, we have 30,712 images in different scenarios as explained in the following table. 
