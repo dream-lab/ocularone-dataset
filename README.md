@@ -32,7 +32,7 @@ In these datasets, the person wearing the hazard vest is/was a team member of th
 ### Citation
 If you use our work, please cite as follows: 
 
-``Ocularone Hazard Vest Dataset, v1.0, Suman Raj, Bhavani A Madhabhavi, Prince Modi, Arnav Rajesh, Pratham M, Yogesh Simmhan, DREAM:Lab, Indian Institute of Science, Bangalore, 2024, https://github.com/dream-lab/ocularone-dataset``
+``Ocularone Hazard Vest Dataset, v1.0, Suman Raj, Bhavani A Madhabhavi, Kautuk Astu, Arnav Rajesh, Pratham M, Yogesh Simmhan, DREAM:Lab, Indian Institute of Science, Bangalore, 2024, https://github.com/dream-lab/ocularone-dataset``
 
 ### License
 
