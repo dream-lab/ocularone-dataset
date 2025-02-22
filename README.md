@@ -9,7 +9,7 @@ The images are taken by a [DJI Ryze Tello](https://www.ryzerobotics.com/tello) d
 A person holding the drone at different heights and distances from the person wearing the hazard vest, captures the videos. The frames are extracted from the videos at 10 FPS. 
 
 ### Dataset
-We have a total of 43 videos of duration between 1 minute to 2 minutes at different locations in the campus. The images have been manually annotated using [Roboflow](https://roboflow.com/). Overall, we have 30,712 images in different scenarios as explained in the following table. 
+We have a total of 43 videos of duration between 1 minute to 2 minutes at different locations in the campus. The images have been manually annotated using Roboflow. Overall, we have 30,712 images in different scenarios as explained in the following table. 
 
 | Sl. No. | Scenarios | Number of annotated images | 
 |  ---:  |  :---         |     ---:       |        
@@ -26,21 +26,8 @@ We have a total of 43 videos of duration between 1 minute to 2 minutes at differ
 | 11 | VIP walks in broad daylight in different scenarios apart from the above specific ones | 9169 | 
 | 12 | Adversarial pictures of the VIP walking in dark backgrounds, blur pictures, bad orientations, evening time, etc. | 4384 |  
 
-A subset of these samples images have been released at this time (2024-03-15). The entire dataset will be shared once the relevant paper, currently under review, is accepted.
-
 ### Note
 In these datasets, the person wearing the hazard vest is/was a team member of the project who has consented to be part of this data collection effort. They are not visually impaired; they just serve as a proxy for one. To respect privacy, we have blurred the faces of the person wearing the hazard vest and any other bystander whose features are recognizable.
-
-### Training of YOLOv8-nano
-We use 10% of images randomly picked from each category to train the off-the-shelf [YOLOv8 nano](https://docs.ultralytics.com/) Deep Neural Network (DNN) model. So, a total of 3866 images were set aside from the dataset and split in the ratio of 80:20 for training and validation data. Rest of the images were kept aside for testing.
-
-### Authors
-* Suman Raj
-* Bhavani A Madhabhavi
-* Prince Modi
-* Arnav Rajesh
-* Pratham M
-* Yogesh Simmhan
 
 ### Citation
 You may cite this work as follows:
