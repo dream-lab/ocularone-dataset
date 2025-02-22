@@ -1,5 +1,5 @@
 ## Ocularone Hazard Vest Dataset
-### v1.0, 2024-03-15
+### v1.0, 2025-02-22
 
 This full dataset consists of 30,712 annotated images of a person wearing a green hazard vest in different outdoor scenarios of a university campus (IISc Bangalore). Our motivation for collecting this dataset is to improve the accuracy of detections of a person wearing a hazard vest and be able to track them autonomously using a drone. This is specifically designed to assist a Visually Impaired Person (VIP) navigate within urban spaces, as part of the Ocularone project described [here](https://dl.acm.org/doi/abs/10.1145/3544549.3585863). 
 
