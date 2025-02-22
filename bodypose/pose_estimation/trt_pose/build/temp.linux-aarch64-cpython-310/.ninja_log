@@ -1,0 +1,9 @@
+# ninja log v5
+1	209	1737740900716494362	/home/sumanraj/bodypose/pose_estimation/trt_pose/build/temp.linux-aarch64-cpython-310/trt_pose/parse/find_peaks.o	96dfe53c2b496691
+2	212	1737740900720494359	/home/sumanraj/bodypose/pose_estimation/trt_pose/build/temp.linux-aarch64-cpython-310/trt_pose/parse/refine_peaks.o	6e6e6eedded22de3
+1	511	1737740901020494121	/home/sumanraj/bodypose/pose_estimation/trt_pose/build/temp.linux-aarch64-cpython-310/trt_pose/parse/paf_score_graph.o	2fff616458be9c48
+0	593	1737740901100494056	/home/sumanraj/bodypose/pose_estimation/trt_pose/build/temp.linux-aarch64-cpython-310/trt_pose/parse/connect_parts.o	75d21014600f9145
+1	1228	1737740901736493538	/home/sumanraj/bodypose/pose_estimation/trt_pose/build/temp.linux-aarch64-cpython-310/trt_pose/parse/munkres.o	471e15f38c8315c6
+2	46172	1737740946644434951	/home/sumanraj/bodypose/pose_estimation/trt_pose/build/temp.linux-aarch64-cpython-310/trt_pose/train/generate_cmap.o	df2cf363fe0a483e
+2	48263	1737740948720431221	/home/sumanraj/bodypose/pose_estimation/trt_pose/build/temp.linux-aarch64-cpython-310/trt_pose/train/generate_paf.o	c39c4fce74983abc
+2	51708	1737740952152424863	/home/sumanraj/bodypose/pose_estimation/trt_pose/build/temp.linux-aarch64-cpython-310/trt_pose/plugins.o	fc4752c5ecbc52a2
