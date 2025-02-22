@@ -45,7 +45,7 @@ We use 10% of images randomly picked from each category to train the off-the-she
 ### Citation
 You may cite this work as follows:
 
-``Ocularone Hazard Vest Dataset, v1.0, Suman Raj, Bhavani A Madhabhavi, Prince Modi, Arnav Rajesh, Pratham M, Yogesh Simmhan, DREAM:Lab, Indian Institute of Science, Bangalore, 2024, https://github.com/dream-lab/ocularone-dataset``
+``Ocularone Hazard Vest Dataset, v1.0, Suman Raj, Bhavani A Madhabhavi, Kautuk Astu, Arnav Rajesh, Pratham M, Yogesh Simmhan, DREAM:Lab, Indian Institute of Science, Bangalore, 2024, https://github.com/dream-lab/ocularone-dataset``
 
 ### License
 
