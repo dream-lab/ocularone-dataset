@@ -1,15 +1,15 @@
 ## Ocularone Hazard Vest Dataset
-### v1.0, 2025-02-22
+### v1.0, 2025-02-21
 
 This full dataset consists of 30,712 annotated images of a person wearing a green hazard vest in different outdoor scenarios of a university campus (IISc Bangalore). Our motivation for collecting this dataset is to improve the accuracy of detections of a person wearing a hazard vest and be able to track them autonomously using a drone. This is specifically designed to assist a Visually Impaired Person (VIP) navigate within urban spaces, as part of the Ocularone project described [here](https://dl.acm.org/doi/abs/10.1145/3544549.3585863). 
 
 The images are taken by a [DJI Ryze Tello](https://www.ryzerobotics.com/tello) drone with an onboard camera. The camera has a Field of View (FoV) of 82.6 degrees and captures videos at a resolution of 720p at 30 frames per second (FPS).
 
 ### Setup
-A person holding the drone at different heights and distances from the person wearing the hazard vest, captures the videos. The frames are extracted from the videos at 10 FPS. 
+A person holding the drone at different heights and distances from the person wearing the hazard vest, captures the videos. The frames are extracted from the videos at FPS of 10.
 
 ### Dataset
-We have a total of 43 videos of duration between 1 minute to 2 minutes at different locations in the campus. The images have been manually annotated using Roboflow. Overall, we have 30,712 images in different scenarios as explained in the following table. 
+We have a total of 43 videos of duration between 1 minute to 2 minutes at different locations in the campus. The images have been manually annotated using Roboflow. Overall, we have 30,712 images in different scenarios as explained in the following table. The training dataset (3866 images) and the complete dataset including the inference images is present [here](https://huggingface.co/datasets/Bhavani-23/Ocularone-Hazard-Vest-Dataset). The YOLO models that were trained on the dataset can be found [here](https://huggingface.co/Bhavani-23/Ocularone-Hazard-Vest-Dataset-Models).
 
 | Sl. No. | Scenarios | Number of annotated images | 
 |  ---:  |  :---         |     ---:       |        
@@ -30,9 +30,9 @@ We have a total of 43 videos of duration between 1 minute to 2 minutes at differ
 In these datasets, the person wearing the hazard vest is/was a team member of the project who has consented to be part of this data collection effort. They are not visually impaired; they just serve as a proxy for one. To respect privacy, we have blurred the faces of the person wearing the hazard vest and any other bystander whose features are recognizable.
 
 ### Citation
-You may cite this work as follows:
+If you use our work, please cite as follows: 
 
-``Ocularone Hazard Vest Dataset, v1.0, Suman Raj, Bhavani A Madhabhavi, Kautuk Astu, Arnav Rajesh, Pratham M, Yogesh Simmhan, DREAM:Lab, Indian Institute of Science, Bangalore, 2024, https://github.com/dream-lab/ocularone-dataset``
+``Ocularone Hazard Vest Dataset, v1.0, Suman Raj, Bhavani A Madhabhavi, Prince Modi, Arnav Rajesh, Pratham M, Yogesh Simmhan, DREAM:Lab, Indian Institute of Science, Bangalore, 2024, https://github.com/dream-lab/ocularone-dataset``
 
 ### License
 
