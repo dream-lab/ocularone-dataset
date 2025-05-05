@@ -32,7 +32,15 @@ In these datasets, the person wearing the hazard vest is/was a team member of th
 ### Citation
 If you use our work, please cite as follows: 
 
-``Ocularone Hazard Vest Dataset, v1.0, Suman Raj, Bhavani A Madhabhavi, Kautuk Astu, Arnav Rajesh, Pratham M, Yogesh Simmhan, DREAM:Lab, Indian Institute of Science, Bangalore, 2024, https://github.com/dream-lab/ocularone-dataset``
+@misc{raj2025ocularonebenchbenchmarkingdnnmodels,
+      title={Ocularone-Bench: Benchmarking DNN Models on GPUs to Assist the Visually Impaired}, 
+      author={Suman Raj and Bhavani A Madhabhavi and Kautuk Astu and Arnav A Rajesh and Pratham M and Yogesh Simmhan},
+      year={2025},
+      eprint={2504.03709},
+      archivePrefix={arXiv},
+      primaryClass={cs.DC},
+      url={https://arxiv.org/abs/2504.03709}, 
+}
 
 ### License
 
