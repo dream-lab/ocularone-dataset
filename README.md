@@ -29,18 +29,18 @@ We have a total of 43 videos of duration between 1 minute to 2 minutes at differ
 ### Note
 In these datasets, the person wearing the hazard vest is/was a team member of the project who has consented to be part of this data collection effort. They are not visually impaired; they just serve as a proxy for one. To respect privacy, we have blurred the faces of the person wearing the hazard vest and any other bystander whose features are recognizable.
 
-### Citation
-If you use our work, please cite as follows: 
 
-@misc{raj2025ocularonebenchbenchmarkingdnnmodels,
-      title={Ocularone-Bench: Benchmarking DNN Models on GPUs to Assist the Visually Impaired}, 
-      author={Suman Raj and Bhavani A Madhabhavi and Kautuk Astu and Arnav A Rajesh and Pratham M and Yogesh Simmhan},
-      year={2025},
-      eprint={2504.03709},
-      archivePrefix={arXiv},
-      primaryClass={cs.DC},
-      url={https://arxiv.org/abs/2504.03709}, 
-}
+## Attribution
+[Ocularone-Bench: Benchmarking DNN Models on GPUs to Assist the Visually Impaired](https://doi.org/10.1109/IPDPSW66978.2025.00048), S. Raj, B. A. Madhabhavi, K. Astu, A. A. Rajesh, P. M and Y. Simmhan, *IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW)*, Milano, Italy, 2025, pp. 251-254 [arXiv](https://arxiv.org/html/2504.03709v1).
+```
+@INPROCEEDINGS{11105894,
+  author={Raj, Suman and Madhabhavi, Bhavani A and Astu, Kautuk and Rajesh, Arnav A and M, Pratham and Simmhan, Yogesh},
+  booktitle={2025 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW)}, 
+  title={Ocularone-Bench: Benchmarking DNN Models on GPUs to Assist the Visually Impaired}, 
+  year={2025},
+  pages={251-254},  
+  doi={10.1109/IPDPSW66978.2025.00048}}
+```
 
 ### License
 
